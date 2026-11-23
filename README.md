@@ -257,4 +257,4 @@ jupyter notebook sketch_to_real_face.ipynb
 
 ---
 
-*Developed as a mini project at University Visvesvaraya College of Engineering, Bengaluru.*
+*Developed as a mini project at University of Visvesvaraya College of Engineering, Bengaluru.*
